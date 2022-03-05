@@ -25,26 +25,26 @@ let track_list = [
     name: "Hare Ram Hare",
     artist: "Natwar Bhai",
     image:"https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path:"https://github.com/NatwarBHAI/mp3/raw/main/4.mp3"
+    path:"https://github.com/NatwarBHAI/mp3/raw/main/1.mp3"
 
   },
   {
     name: "The Twist",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/1.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/2.mp3"
   },
   {
     name: "Wo Ladki Bahut",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/2.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/3.mp3"
   },
   {
     name: "Zara Sa",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/3.MP3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/4.MP3"
   },
   {
     name: "01-Chand Sifarish",
@@ -86,257 +86,244 @@ let track_list = [
     name: "samajh kar chand",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/04.%20Samajh%20Ker%20Chand%20Jisko.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/11.mp3"
   },
   {
     name: "jhalak dikhlaja",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/01.%20Jhalak%20Dikhlaja.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/12.mp3"
   },
   {
     name: "koyal si teri boli",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/01.%20Koyal%20Si%20Teri%20Boli.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/13.mp3"
   },
   {
     name: "dil ne yeh kaha hai",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/02.%20Dil%20Ne%20Ye%20Kaha%20Hai.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/14.mp3"
   },
   {
     name: "dekhne walo ne",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/04.%20Dekhne%20Walon%20Ne%20Kiya.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/15.mp3"
   },
   {
     name: "ankh uthi mohabbat ne",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Ankh%20Uthi%20Mohabbat%20Ne%20Angrai%20Li.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/16.mp3"
   },
   {
     name: "father saab",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Father%20Saab%20-%20Khasa%20Aala%20Chahar.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/17.mp3"
   },
   {
     name: "filhaal mohabbat",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Filhaal%202%20Mohabbat%20Remix%20-%20DJ%20Vispi.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/18.mp3"
   },
   {
     name: "firse machayenge",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Firse%20Machayenge%20-%20Emiway%20Bantai.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/19.mp3"
   },
   {
     name: "garmi street dancer",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Garmi%20-%20Street%20Dancer%203D.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/20.mp3"
   },
   {
     name: "genda phool",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Genda%20Phool%20-%20Badshah.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/21.mp3"
   },
   {
     name: "goli chal javegi",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Goli%20Chal%20Javegi.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/22.mp3"
   },
   {
     name: "husn hai suhana",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Husnn%20Hai%20Suhaana%20New%20-%20Coolie%20No%201.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/23.mp3"
   },
   {
     name: "ek aise ladki thi",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Jeeta%20Tha%20Jiske%20Liye.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/24.mp3"
   },
   {
     name: "kabhi tumhe",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Kabhi%20Tumhe%20-%20Shershaah.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/25.mp3"
   },
   {
     name: "kya karte the sajna",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Kya%20Karte%20the%20Saajna%20-%20Anuradha%20Paudwal.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/26.mp3"
   },
   {
     name: "laal chunariya",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Laal%20Chunariya%20-%20Akull.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/27.mp3"
   },
   {
     name: "lagdi lahore di",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Lagdi%20Lahore%20Di%20-%20Street%20Dancer%203D.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/28.mp3"
   },
   {
     name: "Loca",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Loca%20-%20Yo%20Yo%20Honey%20Singh.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/29.mp3"
   },
   {
     name: "loot liya",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Loot%20Liya.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/30.mp3"
   },
   {
     name: "bhola parvat ka",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Main%20Bhola%20Parvat%20Ka%20Bholenath%20-%20Kaka.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/31.mp3"
   },
   {
     name: "main jis din bhula du",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Main%20Jis%20Din%20Bhulaa%20Du%20-%20Jubin%20Nautiyal.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/32.mp3"
   },
   {
     name: "malang",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Malang%20-%20Title%20Track.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/33.mp3"
   },
   {
     name: "moscow suka",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Moscow%20Suka%20-%20Yo%20Yo%20Honey%20Singh.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/34.mp3"
   },
   {
     name: "muqabala",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Muqabla%20-%20Street%20Dancer%203D.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/35.mp3"
   },
   {
     name: "paani paani remix",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Paani%20Paani%20Remix%20-%20DJ%20Lemon.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/36.mp3"
   },
   {
     name: "pachtaoge",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Pachtaoge%20-%20Atif%20Aslam.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/37.mp3"
   },
   {
     name: "pyar tenu karda",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Pyaar%20Tenu%20Karda%20Gabru%20-%20Romy.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/38.mp3"
   },
   {
     name: "raatan lambiyan",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Raataan%20Lambiyan%20-%20Shershaah.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/39.mp3"
   },
   {
     name: "razzi bolja",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Razzi%20Bolja%20-%20Harjeet%20Deewana.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/40.mp3"
   },
   {
     name: "shayad (love aaj kal)",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Shayad%20-%20Love%20Aaj%20Kal.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/41.mp3"
   },
   {
     name: "shona shona",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Shona%20Shona%20-%20Tony%20Kakkar.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/42.mp3"
   },
   {
     name: "taaron ke shehar me",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Taaron%20Ke%20Shehar%20-%20Neha%20Kakkar.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/43.mp3"
   },
   {
     name: "teri choriyaan",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Teri%20Choriyaan%20-%20Guru%20Randhawa.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/44.mp3"
   },
   {
     name: "thoda thoda pyar",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Thoda%20Thoda%20Pyaar%20-%20Stebin%20Ben.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/45.mp3"
   },
   {
     name: "Tip Tip Barsa Pani",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Tip%20Tip%20-%20Sooryavanshi.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/46.mp3"
   },
   {
     name: "titliyaan warga",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Titliaan%20Warga%20Mashup%20-%20DJ%20Shadow%20Dubai.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/47.mp3"
   },
   {
     name: "wafa na raas aayi",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Wafa%20Na%20Raas%20Aayee%20-%20Jubin%20Nautiyal.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/48.mp3"
   },
   {
     name: "yaar badmash",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Yaar%20Badmash.mp3"
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/49.mp3"
   },
   {
     name: "zara thehro",
     artist: "Natwar BHAI",
     image: "https://github.com/NatwarBHAI/image/raw/main/1.jpg",
-    path: "https://github.com/NatwarBHAI/mp3/raw/main/Zara%20Thehro%20-%20Armaan%20Malik.mp3",
+    path: "https://github.com/NatwarBHAI/mp3/raw/main/50.mp3",
   },
 
 ];
-function random_bg_color() {
-
-  // Get a number between 64 to 256 (for getting lighter colors)
-  let red = Math.floor(Math.random() * 256) + 64;
-  let green = Math.floor(Math.random() * 256) + 64;
-  let blue = Math.floor(Math.random() * 256) + 64;
-
-  // Construct a color withe the given values
-  let bgColor = "rgb(" + red + "," + green + "," + blue + ")";
-
-  // Set the background to that color
-  document.body.style.background = bgColor;
-}
 
 
 function loadTrack(track_index) {
